@@ -17,6 +17,7 @@
 ## 関連リンク（同一プロジェクトの他アカウント）
 
 - [NOTE（本体アーカイブ・企画の全体像）](https://github.com/mushoku-note-log/NOTE)
+- [公式サイト / AICoCreationLab](https://aico-creation-lab.musyokunoossan.chatgpt.site/)
 - [Patreon](https://github.com/mushoku-note-log/SNS-Patreon)
 - [Facebook](https://github.com/mushoku-note-log/SNS-Facebook)
 - [X（旧Twitter）](https://github.com/mushoku-note-log/SNS-X)
